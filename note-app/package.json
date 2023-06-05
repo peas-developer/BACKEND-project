@@ -9,7 +9,7 @@
     "lint": "eslint ./src"
   },
   "keywords": [],
-  "author": "",
+  "author": "cuaks",
   "license": "ISC",
   "devDependencies": {
     "eslint": "^8.41.0",
