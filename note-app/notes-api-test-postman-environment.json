@@ -1,0 +1,15 @@
+{
+	"id": "76b56e00-4eda-49c9-a435-d39c7e04b9a2",
+	"name": "Notes API Test",
+	"values": [
+		{
+			"key": "noteId",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2023-06-07T01:44:21.930Z",
+	"_postman_exported_using": "Postman/10.14.9"
+}
